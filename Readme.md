@@ -1,4 +1,4 @@
-Visualize.js
+﻿Visualize.js
 ============
 
 Visualize.js is a JavaScript API framework used to embed JasperReport Server reports & visualizations inside web applications.
@@ -17,7 +17,7 @@ Installing Jaspersoft
  *Note: All fiddles in this guide are live and available to view before install*
  
  * Download the commercial edition of [JasperReport Server]
- * Use our [quick start guide] for installation and configuration
+ * Use our [quick start guide] for installation and configuration.. testing
 
 Getting Started
 ---------------
