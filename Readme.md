@@ -19,7 +19,7 @@ Installing Jaspersoft
  * Download the commercial edition of [JasperReport Server]
  * Use our [quick start guide] for installation and configuration.. testing
 
-Getting Started
+Getting Started test
 ---------------
  
  ### Live Fiddles
